@@ -344,8 +344,10 @@ Partial Class Form1
         Me.Controls.Add(Me.mnuMenuStripOne)
         Me.DoubleBuffered = True
         Me.ForeColor = System.Drawing.Color.Yellow
-        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedDialog
+        Me.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle
         Me.MainMenuStrip = Me.mnuMenuStripOne
+        Me.MaximizeBox = False
+        Me.MaximumSize = New System.Drawing.Size(711, 571)
         Me.Name = "Form1"
         Me.Text = "Who Wants To Be A Millionare?"
         Me.mnuMenuStripOne.ResumeLayout(False)

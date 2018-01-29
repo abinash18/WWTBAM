@@ -1,3 +1,13 @@
 C:\Users\abinash\Desktop\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.exe
 C:\Users\abinash\Desktop\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.xml
 C:\Users\abinash\Desktop\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.pdb
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\bin\Release\Who Wants To Be A Millionare.exe
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\bin\Release\Who Wants To Be A Millionare.pdb
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\bin\Release\Who Wants To Be A Millionare.xml
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\obj\x86\Release\Who_Wants_To_Be_A_Millionare.Form1.resources
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\obj\x86\Release\Who_Wants_To_Be_A_Millionare.Resources.resources
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.vbproj.GenerateResource.Cache
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.vbproj.CoreCompileInputs.cache
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.exe
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.xml
+C:\Users\abinash\Documents\GitHub\WWTBAM\Who Wants To Be A Millionare\obj\x86\Release\Who Wants To Be A Millionare.pdb
